@@ -1,0 +1,166 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - table [ref=e2]:
+    - rowgroup [ref=e3]:
+      - 'row "AdactIn Group Adactin Group: Hotel Reservation System" [ref=e4]':
+        - cell "AdactIn Group" [ref=e5]:
+          - img "AdactIn Group" [ref=e6]
+        - 'cell "Adactin Group: Hotel Reservation System" [ref=e7]':
+          - 'img "Adactin Group: Hotel Reservation System" [ref=e8]'
+      - row [ref=e9]:
+        - cell [ref=e10]
+  - table [ref=e11]:
+    - rowgroup [ref=e12]:
+      - row "Welcome to Adactin Group of Hotels Hello AafiaHassan! Search Hotel | Booked Itinerary | Change Password | Logout Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS. HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more. Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation! Known Defects DOWNLOAD list of known defects for this application. Book on Automation About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e13]:
+        - cell "Welcome to Adactin Group of Hotels" [ref=e14]
+        - cell "Hello AafiaHassan! Search Hotel | Booked Itinerary | Change Password | Logout" [ref=e15]:
+          - textbox [ref=e16]: Hello AafiaHassan!
+          - link "Search Hotel" [ref=e17] [cursor=pointer]:
+            - /url: SearchHotel.php
+          - text: "|"
+          - link "Booked Itinerary" [ref=e18] [cursor=pointer]:
+            - /url: BookedItinerary.php
+          - text: "|"
+          - link "Change Password" [ref=e19] [cursor=pointer]:
+            - /url: ChangePassword.php
+          - text: "|"
+          - link "Logout" [ref=e20] [cursor=pointer]:
+            - /url: Logout.php
+        - cell "Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS. HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more. Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation! Known Defects DOWNLOAD list of known defects for this application. Book on Automation About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e21]:
+          - table [ref=e22]:
+            - rowgroup [ref=e23]:
+              - row "Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS." [ref=e24]:
+                - cell "Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS." [ref=e25]:
+                  - heading "Adactin Hotel Mobile App" [level=4] [ref=e26]
+                  - link "DOWNLOAD" [ref=e27] [cursor=pointer]:
+                    - /url: https://adactinhotelapp.com/resources/AdactinHotelApp_SetupGuide.pdf
+                  - text: the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS.
+              - row "HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more." [ref=e28]:
+                - cell "HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more." [ref=e29]:
+                  - heading "HotelApp Web Services" [level=4] [ref=e30]
+                  - text: Access Hotel App SOAP and Rest Services to learn web services testing.
+                  - link "Click" [ref=e31] [cursor=pointer]:
+                    - /url: https://adactinhotelapp.com/HotelAdactinWebServices/
+                  - text: to know more.
+              - row "Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation!" [ref=e32]:
+                - cell "Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation!" [ref=e33]:
+                  - heading "Sample TestCases" [level=4] [ref=e34]
+                  - link "DOWNLOAD" [ref=e35] [cursor=pointer]:
+                    - /url: http://adactinhotelapp.com/resources/Sample-TestCases_HotelApplication.pdf
+                  - text: a complete set of readymade sample TEST CASES for this application. Enjoy automation!
+              - row "Known Defects DOWNLOAD list of known defects for this application." [ref=e36]:
+                - cell "Known Defects DOWNLOAD list of known defects for this application." [ref=e37]:
+                  - heading "Known Defects" [level=4] [ref=e38]
+                  - link "DOWNLOAD" [ref=e39] [cursor=pointer]:
+                    - /url: http://adactinhotelapp.com/resources/KnownDefects_HotelApp.pdf
+                  - text: list of known defects for this application.
+              - row "Book on Automation" [ref=e40]:
+                - cell "Book on Automation" [ref=e41]:
+                  - heading "Book on Automation" [level=4] [ref=e42]
+                  - iframe [ref=e43]:
+                    
+              - row "About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e44]:
+                - cell "About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e45]:
+                  - heading "About Adactin" [level=4] [ref=e46]
+                  - text: Get solutions for all your testing needs. Visit
+                  - link "www.adactin.com" [ref=e47] [cursor=pointer]:
+                    - /url: http://www.adactin.com
+                  - text: today!
+      - row "Search Hotel (Fields marked with Red asterix (*) are mandatory) Location* - Select Location - Hotels - Select Hotel - Room Type - Select Room Type - Number of Rooms* 1 - One Check In Date* 02/03/2026 (dd/mm/yyyy) Check Out Date* 03/03/2026 (dd/mm/yyyy) Adults per Room* 1 - One Children per Room 0 - None Search Reset" [ref=e48]:
+        - cell "Search Hotel (Fields marked with Red asterix (*) are mandatory) Location* - Select Location - Hotels - Select Hotel - Room Type - Select Room Type - Number of Rooms* 1 - One Check In Date* 02/03/2026 (dd/mm/yyyy) Check Out Date* 03/03/2026 (dd/mm/yyyy) Adults per Room* 1 - One Children per Room 0 - None Search Reset" [ref=e49]:
+          - table [ref=e51]:
+            - rowgroup [ref=e52]:
+              - row "Search Hotel (Fields marked with Red asterix (*) are mandatory)" [ref=e53]:
+                - cell "Search Hotel (Fields marked with Red asterix (*) are mandatory)" [ref=e54]
+              - row "Location* - Select Location -" [ref=e55]:
+                - cell "Location*" [ref=e56]
+                - cell "- Select Location -" [ref=e57]:
+                  - combobox [ref=e58]:
+                    - option "- Select Location -" [selected]
+                    - option "Sydney"
+                    - option "Melbourne"
+                    - option "Brisbane"
+                    - option "Adelaide"
+                    - option "London"
+                    - option "New York"
+                    - option "Los Angeles"
+                    - option "Paris"
+              - row "Hotels - Select Hotel -" [ref=e59]:
+                - cell "Hotels" [ref=e60]
+                - cell "- Select Hotel -" [ref=e61]:
+                  - combobox [ref=e62]:
+                    - option "- Select Hotel -" [selected]
+                    - option "Hotel Creek"
+                    - option "Hotel Sunshine"
+                    - option "Hotel Hervey"
+                    - option "Hotel Cornice"
+              - row "Room Type - Select Room Type -" [ref=e63]:
+                - cell "Room Type" [ref=e64]
+                - cell "- Select Room Type -" [ref=e65]:
+                  - combobox [ref=e66]:
+                    - option "- Select Room Type -" [selected]
+                    - option "Standard"
+                    - option "Double"
+                    - option "Deluxe"
+                    - option "Super Deluxe"
+              - row "Number of Rooms* 1 - One" [ref=e67]:
+                - cell "Number of Rooms*" [ref=e68]
+                - cell "1 - One" [ref=e69]:
+                  - combobox [ref=e70]:
+                    - option "- Select Number of Rooms -"
+                    - option "1 - One" [selected]
+                    - option "2 - Two"
+                    - option "3 - Three"
+                    - option "4 - Four"
+                    - option "5 - Five"
+                    - option "6 - Six"
+                    - option "7 - Seven"
+                    - option "8 - Eight"
+                    - option "9 - Nine"
+                    - option "10 - Ten"
+              - row "Check In Date* 02/03/2026 (dd/mm/yyyy)" [ref=e71]:
+                - cell "Check In Date*" [ref=e72]
+                - cell "02/03/2026 (dd/mm/yyyy)" [ref=e73]:
+                  - textbox [ref=e74]: 02/03/2026
+                  - text: (dd/mm/yyyy)
+              - row "Check Out Date* 03/03/2026 (dd/mm/yyyy)" [ref=e75]:
+                - cell "Check Out Date*" [ref=e76]
+                - cell "03/03/2026 (dd/mm/yyyy)" [ref=e77]:
+                  - textbox [ref=e78]: 03/03/2026
+                  - text: (dd/mm/yyyy)
+              - row "Adults per Room* 1 - One" [ref=e79]:
+                - cell "Adults per Room*" [ref=e80]
+                - cell "1 - One" [ref=e81]:
+                  - combobox [ref=e82]:
+                    - option "- Select Adults per Room -"
+                    - option "1 - One" [selected]
+                    - option "2 - Two"
+                    - option "3 - Three"
+                    - option "4 - Four"
+              - row "Children per Room 0 - None" [ref=e83]:
+                - cell "Children per Room" [ref=e84]
+                - cell "0 - None" [ref=e85]:
+                  - combobox [ref=e86]:
+                    - option "0 - None" [selected]
+                    - option "1 - One"
+                    - option "2 - Two"
+                    - option "3 - Three"
+                    - option "4 - Four"
+              - row "Search Reset" [ref=e87]:
+                - cell [ref=e88]
+                - cell "Search Reset" [ref=e89]:
+                  - button "Search" [ref=e90]
+                  - button "Reset" [ref=e91]
+  - table [ref=e92]:
+    - rowgroup [ref=e93]:
+      - row [ref=e94]:
+        - cell [ref=e95]
+      - row "© 2026 - Adactin.com. All Rights Reserved. Adactin Group Pty. Ltd." [ref=e96]:
+        - cell "© 2026 - Adactin.com. All Rights Reserved. Adactin Group Pty. Ltd." [ref=e97]:
+          - text: © 2026 -
+          - link "Adactin.com" [ref=e98] [cursor=pointer]:
+            - /url: http://www.adactin.com
+          - text: . All Rights Reserved. Adactin Group Pty. Ltd.
+```

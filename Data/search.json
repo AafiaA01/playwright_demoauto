@@ -1,0 +1,17 @@
+{
+  "validSearch": {
+    "locationLabel": "Sydney",
+    "hotelLabel": "Hotel Hervey",
+    "roomTypeLabel": "Standard",
+    "checkIn": "01/09/2025",
+    "checkOut": "05/09/2025",
+    "adults": "2",
+    "children": "1"
+  },
+  "invalidDateSearch": {
+    "locationLabel": "Sydney",
+    "checkIn": "29/06/2024",
+    "checkOut": "28/06/2024"
+  }
+}
+

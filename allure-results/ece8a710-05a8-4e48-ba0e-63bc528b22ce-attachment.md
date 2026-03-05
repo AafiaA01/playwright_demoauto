@@ -1,0 +1,158 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - table [ref=e2]:
+    - rowgroup [ref=e3]:
+      - 'row "AdactIn Group Adactin Group: Hotel Reservation System" [ref=e4]':
+        - cell "AdactIn Group" [ref=e5]:
+          - img "AdactIn Group" [ref=e6]
+        - 'cell "Adactin Group: Hotel Reservation System" [ref=e7]':
+          - 'img "Adactin Group: Hotel Reservation System" [ref=e8]'
+      - row [ref=e9]:
+        - cell [ref=e10]
+  - table [ref=e11]:
+    - rowgroup [ref=e12]:
+      - row "Welcome to Adactin Group of Hotels Hello AafiaHassan! Search Hotel | Booked Itinerary | Change Password | Logout Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS. HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more. Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation! Known Defects DOWNLOAD list of known defects for this application. Book on Automation About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e13]:
+        - cell "Welcome to Adactin Group of Hotels" [ref=e14]
+        - cell "Hello AafiaHassan! Search Hotel | Booked Itinerary | Change Password | Logout" [ref=e15]:
+          - textbox [ref=e16]: Hello AafiaHassan!
+          - link "Search Hotel" [ref=e17] [cursor=pointer]:
+            - /url: SearchHotel.php
+          - text: "|"
+          - link "Booked Itinerary" [ref=e18] [cursor=pointer]:
+            - /url: BookedItinerary.php
+          - text: "|"
+          - link "Change Password" [ref=e19] [cursor=pointer]:
+            - /url: ChangePassword.php
+          - text: "|"
+          - link "Logout" [ref=e20] [cursor=pointer]:
+            - /url: Logout.php
+        - cell "Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS. HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more. Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation! Known Defects DOWNLOAD list of known defects for this application. Book on Automation About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e21]:
+          - table [ref=e22]:
+            - rowgroup [ref=e23]:
+              - row "Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS." [ref=e24]:
+                - cell "Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS." [ref=e25]:
+                  - heading "Adactin Hotel Mobile App" [level=4] [ref=e26]
+                  - link "DOWNLOAD" [ref=e27] [cursor=pointer]:
+                    - /url: https://adactinhotelapp.com/resources/AdactinHotelApp_SetupGuide.pdf
+                  - text: the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS.
+              - row "HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more." [ref=e28]:
+                - cell "HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more." [ref=e29]:
+                  - heading "HotelApp Web Services" [level=4] [ref=e30]
+                  - text: Access Hotel App SOAP and Rest Services to learn web services testing.
+                  - link "Click" [ref=e31] [cursor=pointer]:
+                    - /url: https://adactinhotelapp.com/HotelAdactinWebServices/
+                  - text: to know more.
+              - row "Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation!" [ref=e32]:
+                - cell "Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation!" [ref=e33]:
+                  - heading "Sample TestCases" [level=4] [ref=e34]
+                  - link "DOWNLOAD" [ref=e35] [cursor=pointer]:
+                    - /url: http://adactinhotelapp.com/resources/Sample-TestCases_HotelApplication.pdf
+                  - text: a complete set of readymade sample TEST CASES for this application. Enjoy automation!
+              - row "Known Defects DOWNLOAD list of known defects for this application." [ref=e36]:
+                - cell "Known Defects DOWNLOAD list of known defects for this application." [ref=e37]:
+                  - heading "Known Defects" [level=4] [ref=e38]
+                  - link "DOWNLOAD" [ref=e39] [cursor=pointer]:
+                    - /url: http://adactinhotelapp.com/resources/KnownDefects_HotelApp.pdf
+                  - text: list of known defects for this application.
+              - row "Book on Automation" [ref=e40]:
+                - cell "Book on Automation" [ref=e41]:
+                  - heading "Book on Automation" [level=4] [ref=e42]
+                  - iframe [ref=e43]:
+                    
+              - row "About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e44]:
+                - cell "About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e45]:
+                  - heading "About Adactin" [level=4] [ref=e46]
+                  - text: Get solutions for all your testing needs. Visit
+                  - link "www.adactin.com" [ref=e47] [cursor=pointer]:
+                    - /url: http://www.adactin.com
+                  - text: today!
+      - row "Booking Confirmation Hotel Name Hotel Hervey Location Sydney Room Type Deluxe Arrival Date 01/09/2025 Departure Date 05/09/2025 Total Rooms 1 Room(s) Adults Per Room 2 Adult(s) Children per Room 1 Children Price per Night AUD $ 150 Total Price AUD $ 610 GST AUD $ 61 Final Billed Price AUD $ 671 First Name Test Last Name Billing Address 123 Test Street, Test City Order No. 15I6530A4W Search Hotel My Itinerary Logout" [ref=e48]:
+        - cell "Booking Confirmation Hotel Name Hotel Hervey Location Sydney Room Type Deluxe Arrival Date 01/09/2025 Departure Date 05/09/2025 Total Rooms 1 Room(s) Adults Per Room 2 Adult(s) Children per Room 1 Children Price per Night AUD $ 150 Total Price AUD $ 610 GST AUD $ 61 Final Billed Price AUD $ 671 First Name Test Last Name Billing Address 123 Test Street, Test City Order No. 15I6530A4W Search Hotel My Itinerary Logout" [ref=e49]:
+          - table [ref=e51]:
+            - rowgroup [ref=e52]:
+              - row "Booking Confirmation" [ref=e53]:
+                - cell "Booking Confirmation" [ref=e54]
+              - row "Hotel Name Hotel Hervey" [ref=e55]:
+                - cell "Hotel Name" [ref=e56]
+                - cell "Hotel Hervey" [ref=e57]:
+                  - textbox [disabled] [ref=e58]: Hotel Hervey
+              - row "Location Sydney" [ref=e59]:
+                - cell "Location" [ref=e60]
+                - cell "Sydney" [ref=e61]:
+                  - textbox [disabled] [ref=e62]: Sydney
+              - row "Room Type Deluxe" [ref=e63]:
+                - cell "Room Type" [ref=e64]
+                - cell "Deluxe" [ref=e65]:
+                  - textbox [disabled] [ref=e66]: Deluxe
+              - row "Arrival Date 01/09/2025" [ref=e67]:
+                - cell "Arrival Date" [ref=e68]
+                - cell "01/09/2025" [ref=e69]:
+                  - textbox [disabled] [ref=e70]: 01/09/2025
+              - row
+              - row "Departure Date 05/09/2025" [ref=e71]:
+                - cell "Departure Date" [ref=e72]
+                - cell "05/09/2025" [ref=e73]:
+                  - textbox [disabled] [ref=e74]: 05/09/2025
+              - row "Total Rooms 1 Room(s)" [ref=e75]:
+                - cell "Total Rooms" [ref=e76]
+                - cell "1 Room(s)" [ref=e77]:
+                  - textbox [disabled] [ref=e78]: 1 Room(s)
+              - row "Adults Per Room 2 Adult(s)" [ref=e79]:
+                - cell "Adults Per Room" [ref=e80]
+                - cell "2 Adult(s)" [ref=e81]:
+                  - textbox [disabled] [ref=e82]: 2 Adult(s)
+              - row "Children per Room 1 Children" [ref=e83]:
+                - cell "Children per Room" [ref=e84]
+                - cell "1 Children" [ref=e85]:
+                  - textbox [disabled] [ref=e86]: 1 Children
+              - row "Price per Night AUD $ 150" [ref=e87]:
+                - cell "Price per Night" [ref=e88]
+                - cell "AUD $ 150" [ref=e89]:
+                  - textbox [disabled] [ref=e90]: AUD $ 150
+              - row "Total Price AUD $ 610" [ref=e91]:
+                - cell "Total Price" [ref=e92]
+                - cell "AUD $ 610" [ref=e93]:
+                  - textbox [disabled] [ref=e94]: AUD $ 610
+              - row "GST AUD $ 61" [ref=e95]:
+                - cell "GST" [ref=e96]
+                - cell "AUD $ 61" [ref=e97]:
+                  - textbox [disabled] [ref=e98]: AUD $ 61
+              - row "Final Billed Price AUD $ 671" [ref=e99]:
+                - cell "Final Billed Price" [ref=e100]
+                - cell "AUD $ 671" [ref=e101]:
+                  - textbox [disabled] [ref=e102]: AUD $ 671
+              - row "First Name Test" [ref=e103]:
+                - cell "First Name" [ref=e104]
+                - cell "Test" [ref=e105]:
+                  - textbox [disabled] [ref=e106]: Test
+              - row "Last Name" [ref=e107]:
+                - cell "Last Name" [ref=e108]
+                - cell [ref=e109]:
+                  - textbox [disabled] [ref=e110]
+              - row "Billing Address 123 Test Street, Test City" [ref=e111]:
+                - cell "Billing Address" [ref=e112]
+                - cell "123 Test Street, Test City" [ref=e113]:
+                  - textbox [disabled] [ref=e114]: 123 Test Street, Test City
+              - row "Order No. 15I6530A4W" [ref=e115]:
+                - cell "Order No." [ref=e116]
+                - cell "15I6530A4W" [ref=e117]:
+                  - textbox [disabled] [ref=e118]: 15I6530A4W
+              - row "Search Hotel My Itinerary Logout" [ref=e119]:
+                - cell [ref=e120]
+                - cell "Search Hotel My Itinerary Logout" [ref=e121]:
+                  - button "Search Hotel" [ref=e122]
+                  - button "My Itinerary" [ref=e123]
+                  - button "Logout" [ref=e124]
+  - table [ref=e125]:
+    - rowgroup [ref=e126]:
+      - row [ref=e127]:
+        - cell [ref=e128]
+      - row "© 2026 - Adactin.com. All Rights Reserved. Adactin Group Pty. Ltd." [ref=e129]:
+        - cell "© 2026 - Adactin.com. All Rights Reserved. Adactin Group Pty. Ltd." [ref=e130]:
+          - text: © 2026 -
+          - link "Adactin.com" [ref=e131] [cursor=pointer]:
+            - /url: http://www.adactin.com
+          - text: . All Rights Reserved. Adactin Group Pty. Ltd.
+```

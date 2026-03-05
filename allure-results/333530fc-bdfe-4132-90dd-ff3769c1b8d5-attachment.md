@@ -1,0 +1,137 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - table [ref=e2]:
+    - rowgroup [ref=e3]:
+      - 'row "AdactIn Group Adactin Group: Hotel Reservation System" [ref=e4]':
+        - cell "AdactIn Group" [ref=e5]:
+          - img "AdactIn Group" [ref=e6]
+        - 'cell "Adactin Group: Hotel Reservation System" [ref=e7]':
+          - 'img "Adactin Group: Hotel Reservation System" [ref=e8]'
+      - row [ref=e9]:
+        - cell [ref=e10]
+  - table [ref=e11]:
+    - rowgroup [ref=e12]:
+      - row "Welcome to Adactin Group of Hotels Hello Username! Search Hotel | Booked Itinerary | Change Password | Logout Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS. HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more. Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation! Known Defects DOWNLOAD list of known defects for this application. Book on Automation About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e13]:
+        - cell "Welcome to Adactin Group of Hotels" [ref=e14]
+        - cell "Hello Username! Search Hotel | Booked Itinerary | Change Password | Logout" [ref=e15]:
+          - text: Hello Username!
+          - link "Search Hotel" [ref=e16] [cursor=pointer]:
+            - /url: SearchHotel.php
+          - text: "|"
+          - link "Booked Itinerary" [ref=e17] [cursor=pointer]:
+            - /url: BookedItinerary.php
+          - text: "|"
+          - link "Change Password" [ref=e18] [cursor=pointer]:
+            - /url: ChangePassword.php
+          - text: "|"
+          - link "Logout" [ref=e19] [cursor=pointer]:
+            - /url: Logout.php
+        - cell "Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS. HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more. Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation! Known Defects DOWNLOAD list of known defects for this application. Book on Automation About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e20]:
+          - table [ref=e21]:
+            - rowgroup [ref=e22]:
+              - row "Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS." [ref=e23]:
+                - cell "Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS." [ref=e24]:
+                  - heading "Adactin Hotel Mobile App" [level=4] [ref=e25]
+                  - link "DOWNLOAD" [ref=e26] [cursor=pointer]:
+                    - /url: https://adactinhotelapp.com/resources/AdactinHotelApp_SetupGuide.pdf
+                  - text: the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS.
+              - row "HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more." [ref=e27]:
+                - cell "HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more." [ref=e28]:
+                  - heading "HotelApp Web Services" [level=4] [ref=e29]
+                  - text: Access Hotel App SOAP and Rest Services to learn web services testing.
+                  - link "Click" [ref=e30] [cursor=pointer]:
+                    - /url: https://adactinhotelapp.com/HotelAdactinWebServices/
+                  - text: to know more.
+              - row "Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation!" [ref=e31]:
+                - cell "Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation!" [ref=e32]:
+                  - heading "Sample TestCases" [level=4] [ref=e33]
+                  - link "DOWNLOAD" [ref=e34] [cursor=pointer]:
+                    - /url: http://adactinhotelapp.com/resources/Sample-TestCases_HotelApplication.pdf
+                  - text: a complete set of readymade sample TEST CASES for this application. Enjoy automation!
+              - row "Known Defects DOWNLOAD list of known defects for this application." [ref=e35]:
+                - cell "Known Defects DOWNLOAD list of known defects for this application." [ref=e36]:
+                  - heading "Known Defects" [level=4] [ref=e37]
+                  - link "DOWNLOAD" [ref=e38] [cursor=pointer]:
+                    - /url: http://adactinhotelapp.com/resources/KnownDefects_HotelApp.pdf
+                  - text: list of known defects for this application.
+              - row "Book on Automation" [ref=e39]:
+                - cell "Book on Automation" [ref=e40]:
+                  - heading "Book on Automation" [level=4] [ref=e41]
+                  - iframe [ref=e42]:
+                    
+              - row "About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e43]:
+                - cell "About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e44]:
+                  - heading "About Adactin" [level=4] [ref=e45]
+                  - text: Get solutions for all your testing needs. Visit
+                  - link "www.adactin.com" [ref=e46] [cursor=pointer]:
+                    - /url: http://www.adactin.com
+                  - text: today!
+      - row "Select Hotel Select Hotel Name Location Rooms Arrival Date Departure Date No. of Days Rooms Type Price per Night Total Price (excl. GST) Hotel Hervey Sydney 1 Rooms 05/03/2026 06/03/2026 1 Days Standard AUD $ 150 AUD $ 160 Continue Cancel" [ref=e47]:
+        - cell "Select Hotel Select Hotel Name Location Rooms Arrival Date Departure Date No. of Days Rooms Type Price per Night Total Price (excl. GST) Hotel Hervey Sydney 1 Rooms 05/03/2026 06/03/2026 1 Days Standard AUD $ 150 AUD $ 160 Continue Cancel" [ref=e48]:
+          - table [ref=e50]:
+            - rowgroup [ref=e51]:
+              - row "Select Hotel" [ref=e52]:
+                - cell "Select Hotel" [ref=e53]
+              - row "Select Hotel Name Location Rooms Arrival Date Departure Date No. of Days Rooms Type Price per Night Total Price (excl. GST) Hotel Hervey Sydney 1 Rooms 05/03/2026 06/03/2026 1 Days Standard AUD $ 150 AUD $ 160" [ref=e54]:
+                - cell "Select Hotel Name Location Rooms Arrival Date Departure Date No. of Days Rooms Type Price per Night Total Price (excl. GST) Hotel Hervey Sydney 1 Rooms 05/03/2026 06/03/2026 1 Days Standard AUD $ 150 AUD $ 160" [ref=e55]:
+                  - table [ref=e56]:
+                    - rowgroup [ref=e57]:
+                      - row "Select Hotel Name Location Rooms Arrival Date Departure Date No. of Days Rooms Type Price per Night Total Price (excl. GST)" [ref=e58]:
+                        - cell "Select" [ref=e59]:
+                          - strong [ref=e60]: Select
+                        - cell "Hotel Name" [ref=e61]:
+                          - strong [ref=e62]: Hotel Name
+                        - cell "Location" [ref=e63]:
+                          - strong [ref=e64]: Location
+                        - cell "Rooms" [ref=e65]:
+                          - strong [ref=e66]: Rooms
+                        - cell "Arrival Date" [ref=e67]:
+                          - strong [ref=e68]: Arrival Date
+                        - cell "Departure Date" [ref=e69]:
+                          - strong [ref=e70]: Departure Date
+                        - cell "No. of Days" [ref=e71]:
+                          - strong [ref=e72]: No. of Days
+                        - cell "Rooms Type" [ref=e73]:
+                          - strong [ref=e74]: Rooms Type
+                        - cell "Price per Night" [ref=e75]:
+                          - strong [ref=e76]: Price per Night
+                        - cell "Total Price (excl. GST)" [ref=e77]:
+                          - strong [ref=e78]: Total Price (excl. GST)
+                      - row "Hotel Hervey Sydney 1 Rooms 05/03/2026 06/03/2026 1 Days Standard AUD $ 150 AUD $ 160" [ref=e79]:
+                        - cell [ref=e80]:
+                          - radio [ref=e81]
+                        - cell "Hotel Hervey" [ref=e82]:
+                          - textbox [ref=e83]: Hotel Hervey
+                        - cell "Sydney" [ref=e84]:
+                          - textbox [ref=e85]: Sydney
+                        - cell "1 Rooms" [ref=e86]:
+                          - textbox [ref=e87]: 1 Rooms
+                        - cell "05/03/2026" [ref=e88]:
+                          - textbox [ref=e89]: 05/03/2026
+                        - cell "06/03/2026" [ref=e90]:
+                          - textbox [ref=e91]: 06/03/2026
+                        - cell "1 Days" [ref=e92]:
+                          - textbox [ref=e93]: 1 Days
+                        - cell "Standard" [ref=e94]:
+                          - textbox [ref=e95]: Standard
+                        - cell "AUD $ 150" [ref=e96]:
+                          - textbox [ref=e97]: AUD $ 150
+                        - cell "AUD $ 160" [ref=e98]:
+                          - textbox [ref=e99]: AUD $ 160
+              - row "Continue Cancel" [ref=e100]:
+                - cell "Continue Cancel" [ref=e101]:
+                  - button "Continue" [ref=e102]
+                  - button "Cancel" [ref=e103]
+  - table [ref=e104]:
+    - rowgroup [ref=e105]:
+      - row [ref=e106]:
+        - cell [ref=e107]
+      - row "© 2026 - Adactin.com. All Rights Reserved. Adactin Group Pty. Ltd." [ref=e108]:
+        - cell "© 2026 - Adactin.com. All Rights Reserved. Adactin Group Pty. Ltd." [ref=e109]:
+          - text: © 2026 -
+          - link "Adactin.com" [ref=e110] [cursor=pointer]:
+            - /url: http://www.adactin.com
+          - text: . All Rights Reserved. Adactin Group Pty. Ltd.
+```

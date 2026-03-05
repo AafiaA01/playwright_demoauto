@@ -1,0 +1,201 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - table [ref=e2]:
+    - rowgroup [ref=e3]:
+      - 'row "AdactIn Group Adactin Group: Hotel Reservation System" [ref=e4]':
+        - cell "AdactIn Group" [ref=e5]:
+          - img "AdactIn Group" [ref=e6]
+        - 'cell "Adactin Group: Hotel Reservation System" [ref=e7]':
+          - 'img "Adactin Group: Hotel Reservation System" [ref=e8]'
+      - row [ref=e9]:
+        - cell [ref=e10]
+  - table [ref=e11]:
+    - rowgroup [ref=e12]:
+      - row "Welcome to Adactin Group of Hotels Hello AafiaHassan! Search Hotel | Booked Itinerary | Change Password | Logout Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS. HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more. Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation! Known Defects DOWNLOAD list of known defects for this application. Book on Automation About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e13]:
+        - cell "Welcome to Adactin Group of Hotels" [ref=e14]
+        - cell "Hello AafiaHassan! Search Hotel | Booked Itinerary | Change Password | Logout" [ref=e15]:
+          - textbox [ref=e16]: Hello AafiaHassan!
+          - link "Search Hotel" [ref=e17] [cursor=pointer]:
+            - /url: SearchHotel.php
+          - text: "|"
+          - link "Booked Itinerary" [ref=e18] [cursor=pointer]:
+            - /url: BookedItinerary.php
+          - text: "|"
+          - link "Change Password" [ref=e19] [cursor=pointer]:
+            - /url: ChangePassword.php
+          - text: "|"
+          - link "Logout" [ref=e20] [cursor=pointer]:
+            - /url: Logout.php
+        - cell "Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS. HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more. Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation! Known Defects DOWNLOAD list of known defects for this application. Book on Automation About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e21]:
+          - table [ref=e22]:
+            - rowgroup [ref=e23]:
+              - row "Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS." [ref=e24]:
+                - cell "Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS." [ref=e25]:
+                  - heading "Adactin Hotel Mobile App" [level=4] [ref=e26]
+                  - link "DOWNLOAD" [ref=e27] [cursor=pointer]:
+                    - /url: https://adactinhotelapp.com/resources/AdactinHotelApp_SetupGuide.pdf
+                  - text: the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS.
+              - row "HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more." [ref=e28]:
+                - cell "HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more." [ref=e29]:
+                  - heading "HotelApp Web Services" [level=4] [ref=e30]
+                  - text: Access Hotel App SOAP and Rest Services to learn web services testing.
+                  - link "Click" [ref=e31] [cursor=pointer]:
+                    - /url: https://adactinhotelapp.com/HotelAdactinWebServices/
+                  - text: to know more.
+              - row "Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation!" [ref=e32]:
+                - cell "Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation!" [ref=e33]:
+                  - heading "Sample TestCases" [level=4] [ref=e34]
+                  - link "DOWNLOAD" [ref=e35] [cursor=pointer]:
+                    - /url: http://adactinhotelapp.com/resources/Sample-TestCases_HotelApplication.pdf
+                  - text: a complete set of readymade sample TEST CASES for this application. Enjoy automation!
+              - row "Known Defects DOWNLOAD list of known defects for this application." [ref=e36]:
+                - cell "Known Defects DOWNLOAD list of known defects for this application." [ref=e37]:
+                  - heading "Known Defects" [level=4] [ref=e38]
+                  - link "DOWNLOAD" [ref=e39] [cursor=pointer]:
+                    - /url: http://adactinhotelapp.com/resources/KnownDefects_HotelApp.pdf
+                  - text: list of known defects for this application.
+              - row "Book on Automation" [ref=e40]:
+                - cell "Book on Automation" [ref=e41]:
+                  - heading "Book on Automation" [level=4] [ref=e42]
+                  - iframe [ref=e43]:
+                    
+              - row "About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e44]:
+                - cell "About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e45]:
+                  - heading "About Adactin" [level=4] [ref=e46]
+                  - text: Get solutions for all your testing needs. Visit
+                  - link "www.adactin.com" [ref=e47] [cursor=pointer]:
+                    - /url: http://www.adactin.com
+                  - text: today!
+      - row "Back Book A Hotel Hotel Name Hotel Hervey Location Sydney Room Type Standard Number of Rooms 1 Room(s) Total Days 4 Day(s) Price per Night AUD $ 150 Total Price AUD $ 610 GST AUD $ 61 Final Billed Price AUD $ 671 First Name* Last Name* Billing Address* Credit Card No.* Use 16 digit Dummy Data Credit Card Type* - Select Credit Card Type - Expiry Date* - Select Month - - Select Year - CVV Number* Book Now Cancel" [ref=e48]:
+        - cell "Back Book A Hotel Hotel Name Hotel Hervey Location Sydney Room Type Standard Number of Rooms 1 Room(s) Total Days 4 Day(s) Price per Night AUD $ 150 Total Price AUD $ 610 GST AUD $ 61 Final Billed Price AUD $ 671 First Name* Last Name* Billing Address* Credit Card No.* Use 16 digit Dummy Data Credit Card Type* - Select Credit Card Type - Expiry Date* - Select Month - - Select Year - CVV Number* Book Now Cancel" [ref=e49]:
+          - table [ref=e51]:
+            - rowgroup [ref=e52]:
+              - row "Back" [ref=e53]:
+                - cell "Back" [ref=e54]:
+                  - link "Back" [ref=e55] [cursor=pointer]:
+                    - /url: SelectHotel.php
+              - row "Book A Hotel" [ref=e56]:
+                - cell "Book A Hotel" [ref=e57]
+              - row "Hotel Name Hotel Hervey" [ref=e58]:
+                - cell "Hotel Name" [ref=e59]
+                - cell "Hotel Hervey" [ref=e60]:
+                  - textbox [disabled] [ref=e61]: Hotel Hervey
+              - row "Location Sydney" [ref=e62]:
+                - cell "Location" [ref=e63]
+                - cell "Sydney" [ref=e64]:
+                  - textbox [disabled] [ref=e65]: Sydney
+              - row "Room Type Standard" [ref=e66]:
+                - cell "Room Type" [ref=e67]
+                - cell "Standard" [ref=e68]:
+                  - textbox [disabled] [ref=e69]: Standard
+              - row "Number of Rooms 1 Room(s)" [ref=e70]:
+                - cell "Number of Rooms" [ref=e71]
+                - cell "1 Room(s)" [ref=e72]:
+                  - textbox [disabled] [ref=e73]: 1 Room(s)
+              - row "Total Days 4 Day(s)" [ref=e74]:
+                - cell "Total Days" [ref=e75]
+                - cell "4 Day(s)" [ref=e76]:
+                  - textbox [disabled] [ref=e77]: 4 Day(s)
+              - row "Price per Night AUD $ 150" [ref=e78]:
+                - cell "Price per Night" [ref=e79]
+                - cell "AUD $ 150" [ref=e80]:
+                  - textbox [disabled] [ref=e81]: AUD $ 150
+              - row "Total Price AUD $ 610" [ref=e82]:
+                - cell "Total Price" [ref=e83]
+                - cell "AUD $ 610" [ref=e84]:
+                  - textbox [disabled] [ref=e85]: AUD $ 610
+              - row "GST AUD $ 61" [ref=e86]:
+                - cell "GST" [ref=e87]
+                - cell "AUD $ 61" [ref=e88]:
+                  - textbox [disabled] [ref=e89]: AUD $ 61
+              - row "Final Billed Price AUD $ 671" [ref=e90]:
+                - cell "Final Billed Price" [ref=e91]
+                - cell "AUD $ 671" [ref=e92]:
+                  - textbox [disabled] [ref=e93]: AUD $ 671
+              - row "First Name*" [ref=e94]:
+                - cell "First Name*" [ref=e95]
+                - cell [ref=e96]:
+                  - textbox [ref=e97]
+              - row "Last Name*" [ref=e98]:
+                - cell "Last Name*" [ref=e99]
+                - cell [ref=e100]:
+                  - textbox [ref=e101]
+              - row "Billing Address*" [ref=e102]:
+                - cell "Billing Address*" [ref=e103]
+                - cell [ref=e104]:
+                  - textbox [ref=e105]
+              - row "Credit Card No.* Use 16 digit Dummy Data" [ref=e106]:
+                - cell "Credit Card No.*" [ref=e107]
+                - cell "Use 16 digit Dummy Data" [ref=e108]:
+                  - textbox [ref=e109]
+                  - text: Use 16 digit Dummy Data
+              - row "Credit Card Type* - Select Credit Card Type -" [ref=e110]:
+                - cell "Credit Card Type*" [ref=e111]
+                - cell "- Select Credit Card Type -" [ref=e112]:
+                  - combobox [ref=e113]:
+                    - option "- Select Credit Card Type -" [selected]
+                    - option "American Express"
+                    - option "VISA"
+                    - option "Master Card"
+                    - option "Other"
+              - row "Expiry Date* - Select Month - - Select Year -" [ref=e114]:
+                - cell "Expiry Date*" [ref=e115]
+                - cell "- Select Month - - Select Year -" [ref=e116]:
+                  - combobox [ref=e117]:
+                    - option "- Select Month -" [selected]
+                    - option "January"
+                    - option "February"
+                    - option "March"
+                    - option "April"
+                    - option "May"
+                    - option "June"
+                    - option "July"
+                    - option "August"
+                    - option "September"
+                    - option "October"
+                    - option "November"
+                    - option "December"
+                  - combobox [ref=e118]:
+                    - option "- Select Year -" [selected]
+                    - option "2011"
+                    - option "2012"
+                    - option "2013"
+                    - option "2014"
+                    - option "2015"
+                    - option "2016"
+                    - option "2017"
+                    - option "2018"
+                    - option "2019"
+                    - option "2020"
+                    - option "2021"
+                    - option "2022"
+                    - option "2023"
+                    - option "2024"
+                    - option "2025"
+                    - option "2026"
+                    - option "2027"
+                    - option "2028"
+                    - option "2029"
+                    - option "2030"
+              - row "CVV Number*" [ref=e119]:
+                - cell "CVV Number*" [ref=e120]
+                - cell [ref=e121]:
+                  - textbox [ref=e122]
+              - row "Book Now Cancel" [ref=e123]:
+                - cell [ref=e124]
+                - cell "Book Now Cancel" [ref=e125]:
+                  - button "Book Now" [ref=e126]
+                  - button "Cancel" [ref=e127]
+  - table [ref=e128]:
+    - rowgroup [ref=e129]:
+      - row [ref=e130]:
+        - cell [ref=e131]
+      - row "© 2026 - Adactin.com. All Rights Reserved. Adactin Group Pty. Ltd." [ref=e132]:
+        - cell "© 2026 - Adactin.com. All Rights Reserved. Adactin Group Pty. Ltd." [ref=e133]:
+          - text: © 2026 -
+          - link "Adactin.com" [ref=e134] [cursor=pointer]:
+            - /url: http://www.adactin.com
+          - text: . All Rights Reserved. Adactin Group Pty. Ltd.
+```

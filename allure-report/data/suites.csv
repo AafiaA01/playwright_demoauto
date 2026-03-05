@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3473","Hotel Adactin Login","","2026-03-02","passed","2026-03-02","","","",""
+"","3098","Login","","2026-03-03","passed","2026-03-03","","","",""
+"","3117","Hotel Adactin Login Failure","","2026-03-02","passed","2026-03-02","","","",""
+"","10653","search and select hotel","","2026-03-03","passed","2026-03-03","","","",""
+"","41903","test","","2026-03-03","broken","2026-03-03","","","",""
+"","10715","Hotel Adactin Login","","2026-03-03","passed","2026-03-03","","","",""

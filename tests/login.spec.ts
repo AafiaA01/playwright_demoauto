@@ -3,6 +3,8 @@ import { LoginPage } from '../Pages/login';
 import { loginData } from '../utils/testData';
 import { stepWithScreenshot } from '../utils/screenshotUtil';
 
+// updated login test scenarios
+
 test.describe('Hotel Adactin - Login', () => {
   test('login using raw page actions (UI smoke)', async ({ page }, testInfo) => {
     const { username, password } = loginData.validUser;
